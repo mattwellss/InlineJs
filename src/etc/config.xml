@@ -1,0 +1,22 @@
+<config>
+
+
+  <modules>
+    <Mattwellss_InlineJs>
+      <version>1.0.0</version>
+    </Mattwellss_InlineJs>
+  </modules>
+
+
+  <global>
+
+    <blocks>
+      <mw_inlinejs>
+        <class>Mattwellss_InlineJs_Block</class>
+      </mw_inlinejs>
+    </blocks>
+
+  </global>
+
+
+</config>

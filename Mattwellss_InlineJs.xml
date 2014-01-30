@@ -1,0 +1,8 @@
+<config>
+  <modules>
+    <Mattwellss_InlineJs>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Mattwellss_InlineJs>
+  </modules>
+</config>
