@@ -1,0 +1,15 @@
+{
+    "name": "mattwellss/inlinejs",
+    "type": "magento-module",
+    "license":"MIT",
+    "description":"Reduce HTTP requests! Insert frontend JavaScript templates! Other stuff!",
+    "authors":[
+        {
+            "name":"Matthew Wells",
+            "email":"matthewpaulwells@gmail.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
